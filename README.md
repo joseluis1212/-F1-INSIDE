@@ -22,3 +22,6 @@ Meta editorial: dos videos largos por semana y uno o dos Shorts diarios, ajustan
 
 ## Control de calidad
 Consultar la [auditoría del 11 de noviembre de 2026](AUDITORIA/2026-11-11.md) para correcciones, prioridades y pendientes previos al lanzamiento.
+
+## Primera temporada
+El [plan integral de temporada 01](CONTENT/temporada-01/README.md) reúne estrategia, identidad, tráiler, diez videos, calendario de ocho semanas, crecimiento y monetización.
